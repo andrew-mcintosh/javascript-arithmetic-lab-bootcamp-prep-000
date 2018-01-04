@@ -22,6 +22,8 @@ function dec(n) {
   return (n-1);
 }
 
-vfun
+function parseInt(n) {
+  return (n);
+}
 
 
