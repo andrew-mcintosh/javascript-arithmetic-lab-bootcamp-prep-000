@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n, base) {
-  if (isNaN(n) {return 0});
+  if (isNaN(n)) {return 0}
   return (n);
 }
 
