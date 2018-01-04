@@ -3,7 +3,7 @@ function add(a, b) {
 }
 
 function sub(a,b) {
-  return (a-b);
+  return (b-a);
 }
 
 function multiply(a,b) {
@@ -11,5 +11,5 @@ function multiply(a,b) {
 }
 
 function divide(a,b) {
-  ruturn (a/b);
+  ruturn (b/a);
 }
