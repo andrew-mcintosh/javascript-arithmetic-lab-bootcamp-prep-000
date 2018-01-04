@@ -23,11 +23,11 @@ function dec(n) {
 }
 
 function makeInt(n, base) {
+  if makeInt
   return (n);
 }
 
 function preserveDecimal(n) {
-  if 
   return (n);
 }
 
